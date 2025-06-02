@@ -16,8 +16,8 @@ from telebot import TeleBot, types
 
 
 
-TOKEN = "7949886116:AAHI_lu-nxvdu-jY6pyHXWllEcYDyWKF_nU"
-ADMIN_IDS = [394805427]
+TOKEN = "**"
+ADMIN_IDS = [**]
 DATA_FILE = "casino_data.json"
 LOG_FILE = "casino_log.txt"
 BONUS_AMOUNT = 100
